@@ -1,2 +1,3 @@
 hello git
-THis is some text added.
+This is some text added.
+Updating readme with new information.
